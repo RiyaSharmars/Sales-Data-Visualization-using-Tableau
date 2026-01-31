@@ -119,5 +119,3 @@ This project showcases the ability to use Tableau for transforming raw data into
 
 ---
 
-✅ GitHub project description (short version)
-✅ How to explain this dashboard in interviews in simple English
